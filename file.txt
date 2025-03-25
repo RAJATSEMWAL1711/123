@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+HEAD
 hello there
-=======
+
 hello there i am fine
->>>>>>> 22
+22
